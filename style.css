@@ -1,0 +1,75 @@
+h1, h2 {
+    color:rgb(216, 17, 17);
+    background-color: rgb(44, 44, 51);
+    text-align: center;
+}
+
+p {
+    font-family: Impact;
+    color: rgb(17, 16, 17);
+
+}
+
+.nome{
+   
+    color: brown;
+
+}
+
+img{
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+    
+}
+
+#EntreEmContato {
+max-width: 500px;
+margin: 30px;
+padding: 20px;
+background-color: #f4f4f4;
+border-radius: 10px;
+font-family: Arial, sans-serif;
+}
+
+fieldset {
+border: 1px solid #ccc;
+border-radius: 8px;
+padding: 15px;
+margin-bottom: 15px;
+}
+
+legend {
+font-weight: bold;
+color: #333;
+padding: 0 8px;
+}
+
+.campo {
+display: flex;
+flex-direction: column;
+margin-bottom: 15px;
+}
+
+.campo label {
+margin-bottom: 5px;
+font-weight: bold;
+color: #110f0f;
+}
+
+button[type="submit"] {
+background-color: #315eda;
+border-radius: 8px;
+
+
+}
+
+button[type="reset"] {
+background-color: #555;
+}
+
+footer{
+    text-align: center;
+    
+}
+
